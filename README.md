@@ -1,2 +1,3 @@
 # nakigoe.github.io
-former site killed by Microsoft, redirects to new on another platform https://god.onrender.com
+former website was killed by Microsoft for no reason, 
+I opened new website on another platform https://god.onrender.com
