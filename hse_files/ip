@@ -1,1 +1,0 @@
-window.realIP='178.161.223.8';window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:'ipEvent',ipAddress:window.realIP});
