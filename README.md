@@ -4,4 +4,4 @@ nakigoe.github.io was killed by Microsoft for no reason in the most critical per
 <a href="https://nakigoe.org"><img src="https://nakigoe.org/_IMG/nakigoe-academy-night.jpg" alt="Nakigoe Academy"></a>
 <a href="https://nakigoe.org"><img src="https://nakigoe.org/_IMG/logo.png" alt="Nakigoe Academy"></a>
 my users could not get to my nakigoe.github.io website for months, for no reason, just because of stupid Microsoft caprice.
-<h1><a href="https://nakigoe.org/articles/rev.html">Microsoft Must Die</a></h1>
+<h1><a style="color: red;" href="https://nakigoe.org/articles/rev.html">Microsoft Must Die</a></h1>
