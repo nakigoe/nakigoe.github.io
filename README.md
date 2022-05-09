@@ -1,4 +1,4 @@
-nakigoe.github.io was killed by Microsoft for no reason in the most critical period of my job search, and my users could not get to my nakigoe.github.io website for months just because of stupid Microsoft caprice. So I re-opened the website on another platform
+nakigoe.github.io was killed by Microsoft for no reason in the most critical period of my job search, so my users could not get to my nakigigoe.github.io website for months just because of stupid Microsoft caprice. I re-opened the website on another platform
 <h1><a href="https://nakigoe.org" style="background-color: black;" target="_blank">
 <img style="display: block; width: 100vw; 
   position: relative;
